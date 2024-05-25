@@ -89,7 +89,7 @@ class ComposerStaticInit743d9f6cfceec79c8e20a320e89417d2
         ),
         'Lib\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/.src/Lib',
+            0 => __DIR__ . '/../..' . '/src/Lib',
         ),
         'GrahamCampbell\\ResultType\\' => 
         array (

@@ -5,11 +5,11 @@
     "autoload": {
         "psr-4": {
             "Lucia\\AgendaCompleta\\": "src/",
-            "Routes\\" : "./src/Routes",
-            "Controllers\\" : "./src/Controllers",
-            "Lib\\" : ".src/Lib",
-            "Models\\" : "./src/Models",
-            "Views\\" : "./src/Views"
+            "Routes\\": "src/Routes/",
+            "Controllers\\": "src/Controllers/",
+            "Lib\\": "src/Lib/",
+            "Models\\": "src/Models/",
+            "Views\\": "src/Views/"
         }
     },
     "authors": [

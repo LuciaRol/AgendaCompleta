@@ -14,7 +14,7 @@ return array(
     'PhpOption\\' => array($vendorDir . '/phpoption/phpoption/src/PhpOption'),
     'Models\\' => array($baseDir . '/src/Models'),
     'Lucia\\AgendaCompleta\\' => array($baseDir . '/src'),
-    'Lib\\' => array($baseDir . '/.src/Lib'),
+    'Lib\\' => array($baseDir . '/src/Lib'),
     'GrahamCampbell\\ResultType\\' => array($vendorDir . '/graham-campbell/result-type/src'),
     'Dotenv\\' => array($vendorDir . '/vlucas/phpdotenv/src'),
     'Controllers\\' => array($baseDir . '/src/Controllers'),
